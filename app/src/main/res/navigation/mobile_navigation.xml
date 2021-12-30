@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_today">
+
+    <fragment
+        android:id="@+id/navigation_today"
+        android:name="com.example.afinal.ui.today.TodayFragment"
+        android:label="@string/title_today"
+        tools:layout="@layout/fragment_today" />
+
+    <fragment
+        android:id="@+id/navigation_masters"
+        android:name="com.example.afinal.ui.masters.MastersFragment"
+        android:label="@string/title_masters"
+        tools:layout="@layout/fragment_masters" />
+
+    <fragment
+        android:id="@+id/navigation_museum"
+        android:name="com.example.afinal.ui.museum.MuseumFragment"
+        android:label="@string/title_museum"
+        tools:layout="@layout/fragment_museum" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.afinal.ui.settings.SettingsFragment"
+        android:label="@string/title_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

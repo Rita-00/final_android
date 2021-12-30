@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title">
+        <item>Поцелуй</item>
+        <item>Море</item>
+        <item>Корабельная роща</item>
+        <item>Дама в голубом</item>
+        <item>Цветущие ветки миндаля</item>
+    </string-array>
+
+    <string-array name="author">
+        <item>Густав Климт</item>
+        <item>Айвазовский</item>
+        <item>Шишкин</item>
+        <item>Гейнсбор</item>
+        <item>Ван Гог</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>1908-1909</item>
+        <item>1864</item>
+        <item>1898</item>
+        <item>1780</item>
+        <item>1890</item>
+    </string-array>
+
+    <string-array name="history">
+        <item>Мяу</item>
+        <item>Гав</item>
+        <item>Бе-е</item>
+        <item>И-го-го</item>
+        <item>Ква</item>
+        <item>Р-р-р</item>
+        <item>Пи-пи</item>
+        <item>Муууу</item>
+        <item>Хрю</item>
+        <item>Кря</item>
+        <item>Бжжжж</item>
+        <item>Ку-ка-ре-ку</item>
+        <item>Ух-ух</item>
+        <item>Кудах-тах-тах</item>
+        <item>Чирик</item>
+    </string-array>
+</resources>
